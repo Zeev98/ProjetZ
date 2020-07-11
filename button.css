@@ -1,0 +1,8 @@
+.btn-grey{
+	background-color: rgba(200,200,200,0); 
+	border-radius: 10px; 
+	
+	padding: 56px 10px;
+	margin:100px auto;
+	text-align: center;
+}

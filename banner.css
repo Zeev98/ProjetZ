@@ -1,0 +1,7 @@
+.banner{
+	background-image: url(stationF.jpg);
+	background-image: center;
+	background-size: cover;
+	margin: -56px;
+	background color: rgba(200,200,200,0.5);
+}
